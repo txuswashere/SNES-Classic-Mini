@@ -5,7 +5,7 @@
 * https://github.com/txuswashere/SNES-Classic-Mini
 
 
-Nintendo-Entertainment-System
+Super Nintendo-Entertainment-System
 ![SNES](https://github.com/txuswashere/SNES-Classic-Mini/raw/main/SNES/snes-classic.jpg "SNES")
 * https://www.nintendo.es/Miscelaneo/Nintendo-Classic-Mini-Super-Nintendo-Entertainment-System/Nintendo-Classic-Mini-Super-Nintendo-Entertainment-System-1238330.html
 
