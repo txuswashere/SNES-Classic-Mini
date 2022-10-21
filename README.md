@@ -1,5 +1,9 @@
 # SNES-Classic-Mini
-2017 SNES Classic Mini 
+2017 SNES Classic Mini
+* https://github.com/txuswashere/Super-Nintendo
+* https://github.com/txuswashere/SNES
+* https://github.com/txuswashere/SNES-Classic-Mini
+
 
 Nintendo-Entertainment-System
 ![SNES](https://github.com/txuswashere/SNES-Classic-Mini/raw/main/SNES/snes-classic.jpg "SNES")
@@ -28,3 +32,9 @@ Nintendo-Entertainment-System
 ![SNES](https://github.com/txuswashere/SNES-Classic-Mini/raw/main/SNES/18secret-of-mana.jpg "SNES")
 ![SNES](https://github.com/txuswashere/SNES-Classic-Mini/raw/main/SNES/19earthbound.jpg "SNES")
 ![SNES](https://github.com/txuswashere/SNES-Classic-Mini/raw/main/SNES/20super-ghouls-n-ghosts.jpg "SNES")
+
+
+
+* https://github.com/txuswashere/Super-Nintendo
+* https://github.com/txuswashere/SNES
+* https://github.com/txuswashere/SNES-Classic-Mini
